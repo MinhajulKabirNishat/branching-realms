@@ -1,0 +1,26 @@
+{
+  "name": "branching-realms",
+  "version": "1.0.0",
+  "description": "The **Collaborative Storytelling Universe** is a platform where writers, creators, and communities co-create fictional worlds together. Think of it as **Git for narratives** — branching storylines, evolving character arcs, and shared universes that grow organically through collaboration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhajulKabirNishat/branching-realms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MinhajulKabirNishat/branching-realms/issues"
+  },
+  "homepage": "https://github.com/MinhajulKabirNishat/branching-realms#readme",
+  "dependencies": {
+    "@tiptap/react": "^3.19.0",
+    "@tiptap/starter-kit": "^3.19.0",
+    "react-flow-renderer": "^10.3.17"
+  }
+}
